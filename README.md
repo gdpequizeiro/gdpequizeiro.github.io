@@ -6,7 +6,7 @@
 ## copyleft
    i can't see how these files whould be useful for someone, but they are here distribute under MIT license.
 
-    Copyright 2022 Marcus Carrião (carriunix@tilde.team)
+    Copyright 2024 Marcus Carrião (carriunix@tilde.team)
 
     Permission is hereby granted, free of charge, to any person obtaining
     a copy of this software and associated documentation files (the 
